@@ -14,3 +14,5 @@ varnish設定
 /usr/local/varnish/etc/varnish/default.vcl
 Apache設定
 /etc/httpd/conf/httpd.conf
+
+pass:f5hq3utgho

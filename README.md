@@ -15,4 +15,4 @@ varnish設定
 Apache設定
 /etc/httpd/conf/httpd.conf
 
-pass:f5hq3utgho
+
